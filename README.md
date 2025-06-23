@@ -3,7 +3,7 @@ ____________________
 
 ### Solutions to the p-median location problem with metaheuristics coded with python
 
-Below is a summary of the results. The findings.txt file contains more in-depth analysis of the results observed.
+Below is a summary of the results. The findings.doc file contains more in-depth analysis of the results observed.
 
 ##Results
 ____________________
